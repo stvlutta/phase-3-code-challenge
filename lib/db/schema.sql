@@ -1,0 +1,2 @@
+-- Database schema definitions
+-- Add your table definitions here
