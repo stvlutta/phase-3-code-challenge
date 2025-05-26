@@ -137,4 +137,5 @@ phase-3-code-challenge/
 
 ## License
 
-This project is part of a coding challenge and is for educational purposes.
+This project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
